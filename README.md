@@ -1,2 +1,5 @@
 # calculadora
- Repositorio do video
+## Repositorio do video (https://herculesmachado.github.io/calculadora/)
+HTML
+CSS
+JS
