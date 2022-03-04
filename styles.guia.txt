@@ -1,0 +1,10 @@
+#1C3BF - botao - numeros
+#2e4652 - botao/calculadora - fundo
+#192A32 - fundo da calculadora
+#F2B138 - operadores
+
+box-shadow: 0px 1px 5px black;
+
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans&display=swap');
+
+font-family: 'Smooch Sans', sans-serif;
